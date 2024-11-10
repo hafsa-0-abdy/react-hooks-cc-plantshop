@@ -37,7 +37,7 @@ function PlantPage() {
     setSearchTerm(term);
   };
 
-  // Filter plants based on what you search
+  // Filter plants based on what you wanna search
   const filteredPlants = plants.filter((plant) =>
     plant.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
