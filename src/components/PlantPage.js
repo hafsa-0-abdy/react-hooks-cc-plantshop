@@ -13,12 +13,12 @@ function PlantPage() {
       .then((data) => setPlants(data));
   }, []);
 
-  // Function to handle deletion
+  // For deleting
   const handleDeletePlant = (id) => {
     setPlants(plants.filter((plant) => plant.id !== id));
   };
 
-  // Function to toggle 'In Stock' / 'Out of Stock'
+
   const handleOutOfStock = (id) => {
     setPlants(
       plants.map((plant) =>
@@ -32,12 +32,12 @@ function PlantPage() {
     setPlants([...plants, newPlant]);
   };
 
-  // Handle search input change
+  // Changes search input
   const handleSearchChange = (term) => {
     setSearchTerm(term);
   };
 
-  // Filter plants based on the search term
+  // Filter plants based on what you search
   const filteredPlants = plants.filter((plant) =>
     plant.name.toLowerCase().includes(searchTerm.toLowerCase())
   );

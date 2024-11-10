@@ -21,10 +21,10 @@ in the browser to verify that your backend is working before you proceed!
 The base URL for your backend is: `http://localhost:6001`
 
 ## Live Server
-You can view the live app on [Plant Store App](https://your-username.github.io/plant-store/).
+You can view the live app on [Plant Store App](https://github.com/hafsa-0-abdy/react-hooks-cc-plantshop.git).
 
 ## GitHub Repository
-You can view the GitHub repository on [GitHub Link](https://github.com/your-username/plant-store).
+You can view the GitHub repository on [GitHub Link](https://github.com/hafsa-0-abdy/react-hooks-cc-plantshop.git).
 
 ## Known Bugs
 The sold Out button isnt working 
@@ -40,6 +40,6 @@ The sold Out button isnt working
 For any issues or support, email me at: **your-email@example.com**
 
 ### License
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the [MIT License](https://github.com/hafsa-0-abdy/react-hooks-cc-plantshop.git).
 
 Copyright (c) 2024 **Hafsa Abdirizack**
