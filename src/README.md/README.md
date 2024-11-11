@@ -26,6 +26,8 @@ You can view the live app on [Plant Store App](https://github.com/hafsa-0-abdy/r
 ## GitHub Repository
 You can view the GitHub repository on [GitHub Link](https://github.com/hafsa-0-abdy/react-hooks-cc-plantshop.git).
 
+## Netlify link 
+You can view my netlify on  [Netlify Link](https://wondrous-lolly-672e08.netlify.app)
 ## Known Bugs
 The sold Out button isnt working 
 
