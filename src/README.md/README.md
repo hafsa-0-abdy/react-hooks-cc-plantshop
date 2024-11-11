@@ -29,7 +29,7 @@ You can view the GitHub repository on [GitHub Link](https://github.com/hafsa-0-a
 ## Netlify link 
 You can view my netlify on  [Netlify Link](https://wondrous-lolly-672e08.netlify.app)
 ## Known Bugs
-The sold Out button isnt working 
+The sold Out button isnt working.It takes some few seconds before the plant can all appear.
 
 ## Technologies Used
 - React
